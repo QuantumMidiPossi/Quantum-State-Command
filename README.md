@@ -41,9 +41,23 @@ This architecture addresses foundational challenges in:
 
 ## 🔗 Related Links
 
-- 📰 Coming soon: [arXiv Preprint]  
+- 📰 Coming soon: [arXiv Preprint]
+- 📰 Coming soon: [Zenodo Preprint and DOI]  
   
 ---
+
+
+---
+
+### 🛰️ For Principal Engineers & Systems Leads
+
+Quantum State Command Encoding (QSCE) is a TRL-7 validated quantum-native control architecture demonstrated on IBM superconducting hardware (ibm_kyiv). It enables deterministic activation logic with ultra-low qubit footprint (1–2 qubits) and is protected under a U.S. non-provisional patent (filed April 2025).
+
+This repository provides a sandbox demo of phase-state command mapping and activation pathways across four deterministic logic models (QMCA, SQCA, EBA, QPSA). Validation results include hardware runs and histogram outputs.
+
+🛡️ *Note: Hamiltonians, unitary matrices, and evolution logic are IP-protected and available under NDA for qualified engineering leads.*
+
+📩 Licensing and collaboration inquiries welcome.
 
 ## 🛠 Usage & License
 
@@ -55,11 +69,10 @@ This repository is provided for educational and demonstrative purposes only. No 
 
 © 2025 Frank Angelo Drew. All rights reserved.
 
-
 ---
 
 ## 📬 Contact
 
-**Frank Angelo Drew**  
+Frank Angelo Drew  
 📧 fdjt1991@gmail.com CC:ussrangercv61@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/frank-drew-b2b83716b/)
