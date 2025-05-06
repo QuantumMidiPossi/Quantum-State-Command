@@ -7,7 +7,7 @@ Whitepaper on Quantum State Command Encoding (QSCE) – a deterministic multi-pa
 🧠 [LinkedIn](https://www.linkedin.com/in/frank-drew-b2b83716b/) 
 
 ---
-**Introduction** 
+# Introduction 
 
 🚀 Rethinking Quantum Control: Introducing QSCE
 What if quantum control didn’t need to be probabilistic?
