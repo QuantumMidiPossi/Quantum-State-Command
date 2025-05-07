@@ -31,6 +31,7 @@ Validated on IBM’s superconducting quantum hardware and supported by histogram
 
 This isn’t just a new architecture. It’s a new way of seeing quantum mechanics.
 
+---
 
 ## 🧬 Overview
 
@@ -63,6 +64,18 @@ This architecture addresses foundational challenges in:
 
 ---
 
+## Clarification Statement on QSCE’s Phase-Based Control Logic
+
+Quantum State Command Encoding (QSCE) does not rely on probabilistic amplitude sculpting via traditional gate sequences as its primary method of quantum control. Instead, QSCE utilizes phase-state as the control layer, encoding logic directly into the angular coordinates (θ, φ) on the Bloch sphere.
+
+Gate operations are employed deterministically—not for probabilistic transformations, but rather to encode, evolve, and confirm pre-determined command states. These gates serve only to initiate and steer evolution along unitary paths that align with the desired phase logic, ensuring deterministic outcomes rather than stochastic collapse.
+
+The key lies in QSCE’s use of relative phase, which uniquely survives superposition and entanglement. While amplitudes collapse under measurement and are sensitive to decoherence, phase remains coherent throughout unitary evolution, making it ideal as a command substrate. By leveraging unitary time evolution operators, QSCE is able to steer quantum systems predictably, avoiding the probabilistic indeterminism that typically plagues gate-based amplitude-centric approaches.
+
+In short, QSCE transforms the role of phase from a passive byproduct to an active control surface—allowing deterministic navigation through the quantum landscape across all four activation pathways, including photonic, superconducting, and entanglement-driven systems.
+
+---
+
 ## 🔗 Related Links
 
 - 📰 Coming soon: [arXiv Preprint]
@@ -70,8 +83,6 @@ This architecture addresses foundational challenges in:
   
 ---
 
-
----
 
 ### 🛰️ For Principal Engineers & Systems Leads
 
@@ -83,11 +94,13 @@ This repository provides a sandbox demo of phase-state command mapping and activ
 
 📩 Licensing and collaboration inquiries welcome.
 
+---
+
 ## 🛠 Usage & License
 
 ## Intellectual Property Notice
 
-The underlying architecture, mathematical structures, and activation logic—including but not limited to: custom Hamiltonians, unitary time-evolution operators, activation matrices, and Bloch sphere encoding logic—are protected under a filed **Non-Provisional Patent Application (USPTO, May 2025)** by **Frank Angelo Drew**. 
+The underlying architecture, mathematical structures, and activation logic—including but not limited to: custom Hamiltonians, unitary time-evolution operators, activation matrices, and Bloch sphere encoding logic—are protected under a filed **Non-Provisional Patent Application 19/197,398 (USPTO, May 2025)** by **Frank Angelo Drew**. 
 
 This repository is provided for educational and demonstrative purposes only. No part of the system architecture, activation sequences, or command encoding logic may be copied, reverse-engineered, or commercially reused without express written consent from the inventor.
 
