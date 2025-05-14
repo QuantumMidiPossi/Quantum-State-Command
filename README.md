@@ -79,7 +79,7 @@ In short, QSCE transforms the role of phase from a passive byproduct to an activ
 ## 🔗 Related Links
 
 - 📰 Coming soon: [arXiv Preprint]
-- 📰 Coming soon: [Zenodo Preprint and DOI]  
+- 📰 Coming soon: https://zenodo.org/records/15420115?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjFjZmQyMDcxLWY0YWQtNGY5NC1hZjZlLTEwMDI1OThiZTkxMiIsImRhdGEiOnt9LCJyYW5kb20iOiIxZmViNThlOTEyM2YyNDAyZmI5OWRlYTk0ODNhNDNmZiJ9.sdXtpVaB2hHyW-41zfi7GD3J9eDp5bWjunoyQR7h-aIaPVIjBgXwtcaLDQYM8NTuOJiimJeVeRN4aSK55MHHuA
   
 ---
 
